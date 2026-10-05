@@ -1,0 +1,6 @@
+{
+  "name": "WAAM Engineering Monograph & Technical Review",
+  "description": "Comprehensive technical review and interactive metallurgical dossier on Wire Arc Additive Manufacturing (WAAM): process variants, compatible alloys, industrial applications, strengths, metallurgical limitations, and Industry 4.0 integration roadmap.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
